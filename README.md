@@ -13,4 +13,5 @@ Warning: Figura only works with licensed Minecraft copies, it will not work on p
 # Credits
 
 APIs used: 
-- SquAPI (Squishy API by MrSirSquishy)
+- SquAPI (Squishy API by MrSirSquishy [https://github.com/MrSirSquishy/SquishyAPI] )
+- SwingAPI (SwingAPI by Manuel-3 [https://github.com/Manuel-3/figura-scripts/blob/main/src/swingingphysics/swinging_physics.lua] )
