@@ -1,6 +1,10 @@
 # KP-Figura
 Hello!!!! This is a repo made to share and distribute the KP related skins I made for figura. 
 
+# What is Figura?
+
+Figura is a completely client-side mod for minecraft that allows you to set any custom playermodel with different levels of complexity and lets you see other Figura users' avatars.
+
 # Installation
 Warning: Figura only works with licensed Minecraft copies, it will not work on pirate!
 
@@ -14,6 +18,15 @@ Warning: Figura only works with licensed Minecraft copies, it will not work on p
 # Help
 
 If you're having issues with any of my models, feel free to message me on discord @raddaway, I will respond and help as soon as I'm available!
+
+# Plans for next models
+
+Currently I am planning to make several more, in order of completion
+
+1. Catto
+2. Hazmat suit
+3. Nightcrawler
+4. 
 
 # Credits
 
