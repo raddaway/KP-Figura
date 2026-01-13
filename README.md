@@ -8,8 +8,8 @@ Warning: Figura only works with licensed Minecraft copies, it will not work on p
 2. Install the desired model from the list above
 3. When inside the game, click on the new icon when you're in the pause menu
 4. Click "Open Avatars root folder"
-5. Drop the folder into avatars
-6. Back in game, click upload, and other players will see your model too!
+5. Drop the model folder into avatars, don't unpack it's contents
+6. Back in game, click upload, and other players with Figura will see your model too!
 
 # Credits
 
