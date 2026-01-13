@@ -9,3 +9,8 @@ Warning: Figura only works with licensed Minecraft copies, it will not work on p
 3. Click "Open Avatars root folder"
 4. Drop the folder into avatars
 5. Back in game, click upload, and other players will see your model too!
+
+# Credits
+
+APIs used: 
+- SquAPI (Squishy API by MrSirSquishy)
