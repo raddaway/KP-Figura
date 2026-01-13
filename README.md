@@ -5,10 +5,11 @@ Hello!!!! This is a repo made to share and distribute the KP related skins I mad
 Warning: Figura only works with licensed Minecraft copies, it will not work on pirate!
 
 1. Install Figura mod
-2. When inside the game, click on the new icon when you're in the pause menu
-3. Click "Open Avatars root folder"
-4. Drop the folder into avatars
-5. Back in game, click upload, and other players will see your model too!
+2. Install the desired model from the list above
+3. When inside the game, click on the new icon when you're in the pause menu
+4. Click "Open Avatars root folder"
+5. Drop the folder into avatars
+6. Back in game, click upload, and other players will see your model too!
 
 # Credits
 
