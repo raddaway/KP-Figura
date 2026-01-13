@@ -11,6 +11,10 @@ Warning: Figura only works with licensed Minecraft copies, it will not work on p
 5. Drop the model folder into avatars, don't unpack it's contents
 6. Back in game, click upload, and other players with Figura will see your model too!
 
+# Help
+
+If you're having issues with any of my models, feel free to message me on discord @raddaway, I will respond and help as soon as I'm available!
+
 # Credits
 
 You are free to use and modify the model as you'd like, but if you want to share it elsewhere please give credit 🙏
