@@ -13,6 +13,8 @@ Warning: Figura only works with licensed Minecraft copies, it will not work on p
 
 # Credits
 
+You are free to use and modify the model as you'd like, but if you want to share it elsewhere please give credit 🙏
+
 APIs used: 
 - SquAPI (Squishy API by MrSirSquishy [https://github.com/MrSirSquishy/SquishyAPI] )
 - SwingAPI (SwingAPI by Manuel-3 [https://github.com/Manuel-3/figura-scripts/blob/main/src/swingingphysics/swinging_physics.lua] )
