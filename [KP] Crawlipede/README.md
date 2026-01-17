@@ -6,12 +6,12 @@ The cutest critter....
 <h2>Features</h2>
 
 <ul>
-  <li> Tail leg animations
+  <li> Tail leg animations (temporarily broken)
   <li> Tail swinging physics
   <li> Antennae physics
   <li> Eye physics
   <li> Head smoothing
-  <li> Slight tooth chitter animation
+  <li> Slight tooth chitter animation (temporarily broken)
   <li> Emissive textures
   <li> (Optional) Extremely joyful walk bounce
 </ul>
@@ -24,6 +24,7 @@ This is purely option if you just want to have some fun with the model, go into 
 
 - SquishyAPI
 - SwingAPI
+
 
 
 
