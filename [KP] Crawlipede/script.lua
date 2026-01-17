@@ -84,34 +84,6 @@ squapi.tail:new(myTail,
 --this list can be as long as you want based on how many segments your tail is, just add more.
 
 
--- Tail leg movement + Fangs movement
--- Rad's Note: Originally, I wanted the idle to play chance based, but since its a long and a non-distracting animation, I just decided to let it loop instead.
-
-idle = animations.model.Idle
-
-idle:play()
-
--- Handles the randomly playing fangs animation
-
-local teethIdle = animations.model.teethIdle
-local gate = 0
-local rand = math.random(100,400)
-
-function events.tick()
-    if not teethIdle:isPlaying() then
-        gate = gate + 1
-    end
-
-    if gate >= rand then
-        if not teethIdle:isPlaying() then
-            teethIdle:play()
-        end
-        
-        gate = 0 
-        rand = math.random(100, 400)
-    end
-end
-
 -- Rad's Note: Antennae swing
 
 swingOnHead(models.model.root.Head.Antennae, 0, {-60,-20,-30,30,-10,10})
