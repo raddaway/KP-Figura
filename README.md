@@ -23,10 +23,9 @@ If you're having issues with any of my models, feel free to message me on discor
 
 Currently I am planning to make several more, in order of completion
 
-1. Catto
-2. Hazmat suit
+1. Hazmat suit
+2. Hazzy
 3. Nightcrawler
-4. 
 
 # Credits
 
