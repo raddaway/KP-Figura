@@ -132,7 +132,7 @@ local hairChange = mainPage:newAction()
     sounds:playSound(cattenoises, player:getPos(), 1, 1, false)
 end)
 
-page:newAction():title("Armor Toggle"):item("minecraft:iron_chestplate").leftClick = function ()
+mainPage:newAction():title("Armor Toggle"):item("minecraft:iron_chestplate").leftClick = function ()
     if armor == false then
         vanilla_model.ARMOR:setVisible(true)
         sounds:playSound("minecraft:item.armor.equip_iron", player:getPos())
