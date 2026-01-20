@@ -5,6 +5,8 @@ Hello!!!! This is a repo made to share and distribute the KP related skins I mad
 
 Models tagged with [WIP] are not finished and are in progress, they're there to give a good feel for the progress on them so far :D
 
+I'm always open to suggestions, if you have anyone you'd like me to make!
+
 # What is Figura?
 
 Figura is a completely client-side mod for minecraft that allows you to set any custom playermodel with different levels of complexity and lets you see other Figura users' avatars.
