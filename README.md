@@ -1,6 +1,10 @@
 # KP-Figura
 Hello!!!! This is a repo made to share and distribute the KP related skins I made for figura. 
 
+# Important!
+
+Models tagged with [WIP] are not finished and are in progress, they're there to give a good feel for the progress on them so far :D
+
 # What is Figura?
 
 Figura is a completely client-side mod for minecraft that allows you to set any custom playermodel with different levels of complexity and lets you see other Figura users' avatars.
@@ -26,6 +30,8 @@ Currently I am planning to make several more, in order of completion
 1. Nightcrawler
 2. Hazmat suit
 3. Hazzy
+
+Models may come slightly sooner or later, depending on how motivated I am to work on each one. Generally, it takes me about a week or so to fully finish one model, though I may come back to older ones to add new stuff or change them slightly.
 
 # Credits
 
