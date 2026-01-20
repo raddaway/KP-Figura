@@ -23,13 +23,13 @@ If you're having issues with any of my models, feel free to message me on discor
 
 Currently I am planning to make several more, in order of completion
 
-1. Hazmat suit
-2. Hazzy
-3. Nightcrawler
+1. Nightcrawler
+2. Hazmat suit
+3. Hazzy
 
 # Credits
 
-You are free to use and modify the model as you'd like, but if you want to share it elsewhere please give credit 🙏
+You're free to share or use my models however you'd like
 
 APIs used: 
 - SquAPI (Squishy API by MrSirSquishy [https://github.com/MrSirSquishy/SquishyAPI] )
