@@ -27,11 +27,11 @@ If you're having issues with any of my models, feel free to message me on discor
 
 # Plans for next models
 
-Currently I am planning to make several more, in order of completion
+Currently I am planning to make several more, in order of completion. The order is subject to change and some models may come earlier than others, depending on my motivation
 
-1. Nightcrawler
-2. Hazmat suit
-3. Hazzy
+1. Hazmat suit + Hazzy
+2. Buck
+3. Ghostfox (?)
 
 Models may come slightly sooner or later, depending on how motivated I am to work on each one. Generally, it takes me about a week or so to fully finish one model, though I may come back to older ones to add new stuff or change them slightly.
 
