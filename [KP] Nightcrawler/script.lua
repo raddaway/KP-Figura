@@ -12,7 +12,7 @@ events.ENTITY_INIT:register(function ()
     particles:newParticle("minecraft:explosion", player:getPos())
     sounds:playSound("minecraft:block.large_amethyst_bud.break", player:getPos(),1,0.4)
     sounds:playSound("minecraft:block.amethyst_block.break", player:getPos(),1,0.6)
-    -- animations.model.animation:play()
+    animations.model.animation:play()
 end)
 
 local page = action_wheel:newPage()
